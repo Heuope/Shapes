@@ -1,0 +1,8 @@
+C:\Users\konst\source\repos\Figures\ClassLibraryFigures\bin\Debug\netstandard2.0\ClassLibraryFigures.deps.json
+C:\Users\konst\source\repos\Figures\ClassLibraryFigures\bin\Debug\netstandard2.0\ClassLibraryFigures.dll
+C:\Users\konst\source\repos\Figures\ClassLibraryFigures\bin\Debug\netstandard2.0\ClassLibraryFigures.pdb
+C:\Users\konst\source\repos\Figures\ClassLibraryFigures\obj\Debug\netstandard2.0\ClassLibraryFigures.csprojAssemblyReference.cache
+C:\Users\konst\source\repos\Figures\ClassLibraryFigures\obj\Debug\netstandard2.0\ClassLibraryFigures.AssemblyInfoInputs.cache
+C:\Users\konst\source\repos\Figures\ClassLibraryFigures\obj\Debug\netstandard2.0\ClassLibraryFigures.AssemblyInfo.cs
+C:\Users\konst\source\repos\Figures\ClassLibraryFigures\obj\Debug\netstandard2.0\ClassLibraryFigures.dll
+C:\Users\konst\source\repos\Figures\ClassLibraryFigures\obj\Debug\netstandard2.0\ClassLibraryFigures.pdb
